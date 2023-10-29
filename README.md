@@ -1,2 +1,2 @@
 # pagina-web
-Pagina web html  a GitHub
+Pagina web html a GitHub
