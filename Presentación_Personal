@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Presentación personal</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+<h1>Mi presentación personal</h1>
+<p>Bienvenidos a mi biografía. Soy Maria Mina, y a continuación, puedes conocer un poco sobre mi.</p>
+
+<!--Presentacion personal-->
+<h2>¿Quién soy?</h2>
+<p class="parrafo-contenido">Hola, soy María, una mujer que se adentró en el mundo de la tecnología con muchos sueños y miedos,
+    porque no es fácil empezar de nuevo, estudiar y estar rodeada de personas más jóvenes que uno. No ha sido fácil,
+    pero gracias a Dios siempre coloca compañeros y profesores que te dan ánimo y te ayudan con una explicación, cuando
+    no entiendo. También hay personas no muy agradables, pero en la vida, hay de todo tipo de personas que existen. <strong>No todo en la
+    vida es sencillo, pero cuando se confía en Dios, las cosas se vuelven más fáciles.</strong></p>
+
+    <div class="image-link">
+        <a href="unidad2.html">
+            <img src="#" alt="imagen 1">
+        </a>
